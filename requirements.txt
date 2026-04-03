@@ -1,0 +1,14 @@
+haystack-ai==latest
+qdrant-haystack
+pypdf
+pdfplumber
+python-docx
+numpy
+fastapi
+uvicorn[standard]
+pydantic
+beautifulsoup4
+underthesea
+rank-bm25
+flagembedding
+torch
